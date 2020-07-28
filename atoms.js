@@ -1,19 +1,19 @@
 export default {
     typography: {
-        Text: '',
         Link: '',
+        Text: '',
     },
     input: {
         Button: '',
         Checkbox: '',
         Date: '',
-        Time: '',
         DateTime: '',
         Radio: '',
         Select: '',
         Slider: '',
         Switch: '',
         TextField: '',
+        Time: '',
     },
     elements: {
         Box: '',

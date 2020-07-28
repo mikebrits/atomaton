@@ -1,0 +1,11 @@
+{
+  "name": "atomaton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mikebrits/atomaton.git",
+  "author": "britsm <mikebrits@rentalcars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "plop": "^2.7.3"
+  }
+}
